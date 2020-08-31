@@ -1,0 +1,23 @@
+{
+  "name": "binkyfishfriday",
+  "version": "1.0.0",
+  "description": "It is Binky Fish Friday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamonaPrower/BinkyFishFriday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamonaPrower/BinkyFishFriday/issues"
+  },
+  "homepage": "https://github.com/RamonaPrower/BinkyFishFriday#readme",
+  "dependencies": {
+    "node-schedule": "^1.3.2",
+    "twitter": "^1.7.1"
+  }
+}
