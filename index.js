@@ -21,6 +21,9 @@ const post = () => {
         status: 'https://t.co/WYL7G4tYkV',
     }
     tclient.post('statuses/update', status, function (err, _tweet, _response) {
+        if (err) {
+            console.log(err);
+        }
     })
 }
 
