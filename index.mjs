@@ -33,6 +33,3 @@ const keepalive = () => {
 }
 
 main();
-post();
-
-// https://t.co/WYL7G4tYkV
